@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #ffa500;
+}
+
+#title-box {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 15px;
+    font-family: 'Bungee Shade', cursive;
+}
+
+#burger-title-img {
+    display: block;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.change-devour {
+    float: right;
+}
+
+#add-burger {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#reset-all {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.burger-list-item:hover {
+    background-color: #dc3545;
+    cursor: pointer;
+    color: yellow;
+}
