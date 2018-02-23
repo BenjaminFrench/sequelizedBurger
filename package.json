@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BenjaminFrench/burger.git"
+    "url": "git+https://github.com/BenjaminFrench/sequelizedBurger.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BenjaminFrench/burger/issues"
+    "url": "https://github.com/BenjaminFrench/sequelizedBurger/issues"
   },
-  "homepage": "https://github.com/BenjaminFrench/burger#readme",
+  "homepage": "https://github.com/BenjaminFrench/sequelizedBurger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
